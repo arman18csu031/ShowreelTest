@@ -1,0 +1,19 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babylonjs": "^4.2.0",
+    "babylonjs-gui": "^4.2.0",
+    "babylonjs-loaders": "^4.2.0",
+    "babylonjs-materials": "^4.2.0",
+    "babylonjs-serializers": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
